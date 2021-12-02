@@ -1,0 +1,13 @@
+name = "AdventOfCode"
+uuid = "c1e3970c-19ef-44f1-ab00-1d0b22ea0e58"
+authors = ["Jack Coughlin <jack@johnbcoughlin.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
