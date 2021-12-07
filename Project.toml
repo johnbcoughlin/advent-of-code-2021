@@ -3,6 +3,12 @@ uuid = "c1e3970c-19ef-44f1-ab00-1d0b22ea0e58"
 authors = ["Jack Coughlin <jack@johnbcoughlin.com> and contributors"]
 version = "0.1.0"
 
+[deps]
+BenchmarkTools = "6e4b80f9-dd63-53aa-95a3-0cdb28fa8baf"
+DelimitedFiles = "8bb1440f-4735-579b-a4ab-409b98df4dab"
+FFTW = "7a1cc6ca-52ef-59f5-83cd-3a7055c09341"
+SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
+
 [compat]
 julia = "1"
 
